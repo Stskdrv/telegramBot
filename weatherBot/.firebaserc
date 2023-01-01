@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "weathertgbot-sts"
+  },
+  "targets": {},
+  "etags": {}
+}
